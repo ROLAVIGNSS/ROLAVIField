@@ -1,6 +1,5 @@
 # ROLAVIField — Privacy Policy
-
-**Effective date:** September 30, 2025  
+ 
 **Last updated:** September 30, 2025
 
 ROLAVIField is a mobile application developed by **ROLAVI GNSS S.A.C. (Peru)** for surveying, cartography, and GIS workflows that integrate high-accuracy **ROLAVI GNSS** receivers. This policy explains what information the app processes, how it is used, and your choices.

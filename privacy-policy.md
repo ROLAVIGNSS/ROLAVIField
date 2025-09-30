@@ -34,7 +34,7 @@ All processing happens **on your device** or to **endpoints you configure** (for
 - **Device GNSS/location signals**: used to display position and quality in the app; not sent to our servers.  
 - **Connection credentials** (e.g., Bluetooth pairing, optional TCP/NTRIP credentials): stored **locally on your device** and transmitted **only** to the endpoints you configure.
 
-You control exports (e.g., CSV, KML, GeoJSON). The app does not upload project data to ROLAVI.
+You control exports (e.g., CSV, KML, Shapefile, DXF and GPX). The app does not upload project data to ROLAVI.
 
 ---
 

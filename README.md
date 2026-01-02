@@ -17,8 +17,8 @@ This repository hosts the public Privacy Policy for the **ROLAVIField** mobile a
 
 ### Optional: Custom domain
 - Buy or use an existing domain (e.g., `rolavisurveyor.com`).  
-- In **Settings → Pages**, set your custom domain (e.g., `privacy.rolavisurveyor.com`).  
-- Create a `CNAME` record in your DNS pointing to `<your-username>.github.io`.
+- In **Settings → Pages**, set your custom domain (contact.rolavi@rolavisurveyor.com`).  
+- Create a `CNAME` record in your DNS pointing to `ROLAVIGNSS.github.io`.
 - (Optional) add a `CNAME` file to the repo root with the domain name.
 
 ## License
